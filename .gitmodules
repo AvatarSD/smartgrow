@@ -1,6 +1,6 @@
 [submodule "avtoheater"]
 	path = avtoheater
-#	url = ./avtoheater/
+	url = git@github.com:AvatarSD/smartheater.git
 [submodule "avtopoliv"]
 	path = avtopoliv
-#	url = ./avtopoliv/
+	url = git@github.com:AvatarSD/avtoliv.git
