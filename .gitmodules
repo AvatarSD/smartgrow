@@ -1,0 +1,6 @@
+[submodule "avtoheater"]
+	path = avtoheater
+#	url = ./avtoheater/
+[submodule "avtopoliv"]
+	path = avtopoliv
+#	url = ./avtopoliv/
