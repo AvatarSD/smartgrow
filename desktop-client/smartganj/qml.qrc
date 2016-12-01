@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Device.qml</file>
+        <file>SensorView.qml</file>
+        <file>HeaterRepresent.xml</file>
+        <file>MainSensorsView.qml</file>
+        <file>Settings.qml</file>
+    </qresource>
+</RCC>
